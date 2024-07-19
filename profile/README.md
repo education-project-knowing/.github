@@ -1,6 +1,6 @@
 # 🩵 Knowing - 개발자를 위한 선명한 피드백, 기술 면접 학습 서비스
 
-![Knowing Title](https://github.com/education-project-knowing/.github/assets/77969467/350da596-7aba-4942-baad-5290ecb6e423)
+![Knowing Title](https://github.com/user-attachments/assets/0924c687-93ea-4bb0-ba8d-f1fc64abe139)
 
 ## Knowing 링크 : 출시 예정
 
